@@ -1,58 +1,63 @@
 # Portfólio | Dione Castro Alves
 
-Bem-vindo ao meu portfólio profissional!  
-Este repositório apresenta uma coleção de projetos e competências desenvolvidas ao longo da minha trajetória como **Consultor Tecnológico, Desenvolvedor Full Stack e Especialista em IA**.
+Este repositório apresenta meu portfólio pessoal como Desenvolvedor Full Stack e Especialista em Inteligência Artificial. Aqui você encontra uma vitrine de projetos, competências técnicas e trajetória profissional.
 
-## Sobre Mim
+## Sobre
 
-Sou Dione Castro Alves, fundador da **InNovaIdeia Assessoria em Tecnologia ®**.  
-Tenho experiência sólida no desenvolvimento de soluções inteligentes e escaláveis para os setores de moda, varejo e transformação digital.  
-Minha missão é integrar inovação, automação e usabilidade em projetos que realmente fazem a diferença.
+Sou Dione Castro Alves, fundador da **InNovaIdeia Assessoria em Tecnologia ®**, com ampla experiência em soluções full stack, inteligência artificial e automação de processos. Este portfólio reflete meu trabalho, minhas especializações e meu compromisso com inovação, tecnologia e transformação digital.
 
-## Tecnologias & Skills
+## Tecnologias Utilizadas
 
-- **Front-end**: HTML5, CSS3, JavaScript, React  
-- **Back-end**: Python, Flask, Django  
-- **Banco de Dados**: SQLite, PostgreSQL, MongoDB  
-- **IA & Automação**: Chatbots, NLP, IA Generativa  
-- **Ferramentas & Outras Skills**: Git, GitHub, Figma, Linux, Termux
+### Front-End
+- HTML5 semântico
+- CSS3 com Flexbox e Grid
+- JavaScript moderno (ES6+)
+- React.js
+- Bootstrap
+- AOS (Animações de Scroll)
+- FontAwesome
 
-## Projetos em Destaque
+### Back-End
+- Python
+- Flask
+- Django
+- APIs RESTful
+- Segurança e autenticação
 
-### [Sistema Bancário em Python](https://github.com/Foxactive1/banco)
-Aplicação CLI para gerenciamento de contas bancárias com orientação a objetos.
+### Banco de Dados
+- SQLite
+- PostgreSQL
+- MongoDB
+- ORM (Django ORM e SQLAlchemy)
 
-- Criação e exclusão de contas
-- Transferências e emissão de extratos
-- Tecnologias: Python, OO
+### Inteligência Artificial & Automação
+- Chatbots
+- Processamento de Linguagem Natural (NLTK, spaCy)
+- Scripts de automação com Python
 
-### [Plataforma de Tarefas Django (Task Manager)](https://github.com/Foxactive1/taskmanager)
-Gerenciador de tarefas com autenticação de usuários, CRUD completo e design responsivo.
+## Estrutura do Portfólio
 
-- Login/Logout
-- Prioridades e datas de vencimento
-- Tecnologias: Django, SQLite, Bootstrap
+- **Início:** Apresentação com chamada à ação
+- **Sobre:** Quem sou e minhas áreas de atuação
+- **Skills:** Habilidades técnicas separadas por área
+- **Projetos:** Repositórios com descrição e links
+- **Certificações:** (em construção)
+- **Contato:** Links e canais de comunicação
 
-### [Chatbot com IA](https://github.com/Foxactive1/chatbot-flask)
-Bot inteligente para atendimento automatizado com Flask e NLP.
+## Deploy
 
-- Respostas baseadas em intents
-- Expansível via JSON
-- Tecnologias: Flask, Python, IA
+Este portfólio pode ser visualizado online via GitHub Pages:
 
-## Certificações
+[https://foxactive1.github.io/innovaideia.github.io](https://foxactive1.github.io/innovaideia.github.io)
 
-- **Python para Análise de Dados** - Fundação Bradesco (2023)  
-- **Formação IA Generativa** - Alura (2024)
+## Melhorias de Performance
 
-## Contato
+Utilizamos uma estratégia moderna de entrega de scripts com `type="module"` e `nomodule`, o que garante:
+- Redução de tempo de carregamento em navegadores modernos
+- Menor payload JavaScript (sem polyfills desnecessários)
+- Melhor experiência de usuário (UX)
+- Otimização para SEO e Core Web Vitals
 
-- **Email**: [innovaideia2023@gmail.com](mailto:innovaideia2023@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/innovaideia2023](https://www.linkedin.com/in/innovaideia2023)  
-- **GitHub**: [github.com/Foxactive1](https://github.com/Foxactive1)  
-- **WhatsApp**: [Clique para conversar](https://wa.me/5516993117529)
-
----
-
-**Desenvolvido por Dione Castro Alves**  
-**InNovaIdeia Assessoria em Tecnologia ®**
+```html
+<script type="module" src="app.modern.js"></script>
+<script nomodule src="app.legacy.js"></script>
